@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Image Gallery</title>
 </head>
 <body>
 
@@ -32,6 +31,8 @@
         <td><img src="https://github.com/nahlabhm/e-commerce-en-marque-blanche-/assets/49809803/84376b88-0dec-49a8-892b-bd19c07c5eae" alt="Screenshot_20230518-052640"></td>
           <td><img src="https://github.com/nahlabhm/e-commerce-en-marque-blanche-/assets/49809803/223f2a25-46ef-41ca-b467-d85eb5d25b78" alt="Screenshot_20230518-060637 (1)"></td>
         <td><img src="https://github.com/nahlabhm/e-commerce-en-marque-blanche-/assets/49809803/a38609b1-62e5-4268-bb74-f22b2e37f1e1" alt="Screenshot_20230518-052640"></td>
+            <td><img src="https://github.com/nahlabhm/e-commerce-en-marque-blanche-/assets/49809803/5dc0fd93-2761-42b6-8410-4358e91c6fbc" alt="Screenshot_20230530-182100"></td>
+        <td><img src="https://github.com/nahlabhm/e-commerce-en-marque-blanche-/assets/49809803/24bc8c60-aed1-4ec7-a083-a6f0d60920e5" alt="Screenshot_20230526-095202"></td>
         <!-- Add more cells for each image -->
     </tr>
     <tr>
@@ -39,7 +40,14 @@
         <td><img src="https://github.com/nahlabhm/e-commerce-en-marque-blanche-/assets/49809803/d2c4cf50-8d0c-47a6-95ab-85986ac00517" alt="Screenshot_20230613-213515"></td>
           <td><img src="https://github.com/nahlabhm/e-commerce-en-marque-blanche-/assets/49809803/29919358-e365-4721-91ff-dc2bedff31c2" alt="Screenshot_20230518-060637 (1)"></td>
         <td><img src="https://github.com/nahlabhm/e-commerce-en-marque-blanche-/assets/49809803/259d9639-7318-4042-a0c2-b7fd3fe0ecb1" alt="Screenshot_20230518-052640"></td>
+                  <td><img src="https://github.com/nahlabhm/e-commerce-en-marque-blanche-/assets/49809803/83bfff60-f64f-45d3-a506-4cfee7dfe3b7" alt="Screenshot_20230518-060637 (1)"></td>
+        <td><img src="https://github.com/nahlabhm/e-commerce-en-marque-blanche-/assets/49809803/483112ab-fbc6-42c9-87bb-c1cfcb43d8ba" alt="Screenshot_20230518-052640"></td>
         <!-- Add more cells for each image -->
+    </tr>
+        <tr>
+        <td><img src="https://github.com/nahlabhm/e-commerce-en-marque-blanche-/assets/49809803/e570611e-3fbe-4083-be91-7920847baa5c" alt="Screenshot_20230525-174440"></td>
+        <td><img src="https://github.com/nahlabhm/e-commerce-en-marque-blanche-/assets/49809803/60d78a70-53a9-424f-b560-aadebb77ad70" alt="Screenshot_20230613-213515"></td>
+       
     </tr>
 </table>
 
