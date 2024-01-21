@@ -23,6 +23,16 @@
         <td><img src="https://github.com/nahlabhm/e-commerce-en-marque-blanche-/assets/49809803/67b5596d-0dc3-4671-948e-4ac8ccce8248" alt="Screenshot_20230526-095202"></td>
         <!-- Add more rows for each image -->
     </tr>
+    <tr>
+    <td><img src="https://github.com/nahlabhm/e-commerce-en-marque-blanche-/assets/49809803/b487cdb8-8331-45c2-b6e3-faabc9a47910" alt="Screenshot_20230518-060637 (1)"></td>
+        <td><img src="https://github.com/nahlabhm/e-commerce-en-marque-blanche-/assets/49809803/84376b88-0dec-49a8-892b-bd19c07c5eae" alt="Screenshot_20230518-052640"></td>
+        <!-- Add more cells for each image -->
+    </tr>
+    <tr>
+        <td><img src="https://github.com/nahlabhm/e-commerce-en-marque-blanche-/assets/49809803/d57111ec-52d2-4663-8340-76ee939ce579" alt="Screenshot_20230525-174440"></td>
+        <td><img src="https://github.com/nahlabhm/e-commerce-en-marque-blanche-/assets/49809803/d2c4cf50-8d0c-47a6-95ab-85986ac00517" alt="Screenshot_20230613-213515"></td>
+        <!-- Add more cells for each image -->
+    </tr>
 </table>
 
 </body>
