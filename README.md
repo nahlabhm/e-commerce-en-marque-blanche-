@@ -12,6 +12,8 @@
     <tr>
         <td><img src="https://github.com/nahlabhm/e-commerce-en-marque-blanche-/assets/49809803/b2c581fb-1a7b-4136-894d-25cabaf8e46c" alt="Screenshot_20230530-182100"></td>
         <td><img src="https://github.com/nahlabhm/e-commerce-en-marque-blanche-/assets/49809803/072a1c90-bcb5-4ea3-8220-a0940c04f54a" alt="Screenshot_20230526-095202"></td>
+            <td><img src="https://github.com/nahlabhm/e-commerce-en-marque-blanche-/assets/49809803/6e07e9c2-e0f4-436d-bbb8-072cd09f316f" alt="Screenshot_20230530-182100"></td>
+        <td><img src="https://github.com/nahlabhm/e-commerce-en-marque-blanche-/assets/49809803/7382b64d-a029-49f3-8410-d3b026e69da5" alt="Screenshot_20230526-095202"></td>
         <!-- Add more rows for each image -->
     </tr>
     <tr>
