@@ -46,8 +46,7 @@
     </tr>
         <tr>
         <td><img src="https://github.com/nahlabhm/e-commerce-en-marque-blanche-/assets/49809803/e570611e-3fbe-4083-be91-7920847baa5c" alt="Screenshot_20230525-174440"></td>
-        <td><img src="https://github.com/nahlabhm/e-commerce-en-marque-blanche-/assets/49809803/60d78a70-53a9-424f-b560-aadebb77ad70" alt="Screenshot_20230613-213515"></td>
-       
+        <td><img src="https://github.com/nahlabhm/e-commerce-en-marque-blanche-/assets/49809803/60d78a70-53a9-424f-b560-aadebb77ad70" alt="Screenshot_20230613-213515"></td>   
     </tr>
 </table>
 
